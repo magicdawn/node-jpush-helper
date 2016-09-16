@@ -40,7 +40,7 @@
   "files": [
     "lib/",
     "index.js",
-    "package.json"
+    "package.json",
     "README.md",
     "LICENSE"
   ]
