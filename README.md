@@ -1,4 +1,6 @@
 # jpush-helper
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/node-jpush-helper.svg)](https://greenkeeper.io/)
 > JPush helper for Node.js
 
 [![Build Status](https://img.shields.io/travis/magicdawn/node-jpush-helper.svg?style=flat-square)](https://travis-ci.org/magicdawn/node-jpush-helper)
